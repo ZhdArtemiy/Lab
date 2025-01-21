@@ -9,7 +9,8 @@
 Модуль Бухгалтерия: Зеленев Илья
 
 Программа предназначена для небольшого склада. Выполнена на языке C# используя библиотеки WindowsForm, База данных реализована на Sqllite
-
+Lab/Proect/bin/Debug/net8.0-windows/Proect.exe -Исполняемый файл
+Lab/Proect/bin/Debug/net8.0-windows/mydb.db -БД
 
 Главный интерфейс:
 ![image](https://github.com/user-attachments/assets/6db74c03-9394-4bdf-874c-16666457f3eb)
